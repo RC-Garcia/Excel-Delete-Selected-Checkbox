@@ -6,7 +6,7 @@ This macro/module will delete checkboxes in the selected cells. If a selected ce
    2. In the VBA editor, insert a new module:
      Right-click on any item in the project explorer.
      `Select Insert` -> `Module`.
-   3. Copy and paste the [VBA code](DeleteCBox.bcf) into the module.
+   3. Copy and paste the [VBA code](DeleteCBox.vba) into the module.
    4. Close the VBA editor.
    5. To run the macro:
         Select the cells containing the checkboxes.
